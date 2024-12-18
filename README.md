@@ -1,7 +1,7 @@
 # GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/MMInstruction/Giraffe">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="hhttps://arxiv.org/abs/2412.12735">Paper</a> &nbsp&nbsp  </a>
+        🤗 <a href="https://huggingface.co/MMInstruction/Giraffe">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/abs/2412.12735">Paper</a> &nbsp&nbsp  </a>
 </p>
 
 ## Highlights
