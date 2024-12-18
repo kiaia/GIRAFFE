@@ -1,7 +1,7 @@
 # GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models
 
 <p align="center">
-        🤗 <a href="https://huggingface.co/MMInstruction/Giraffe">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="https://arxiv.org/pdf/2409.12191">Paper</a> &nbsp&nbsp  </a>
+        🤗 <a href="https://huggingface.co/MMInstruction/Giraffe">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp 📑 <a href="hhttps://arxiv.org/abs/2412.12735">Paper</a> &nbsp&nbsp  </a>
 </p>
 
 ## Highlights
@@ -56,6 +56,15 @@ from qwen_vl_utils import process_vision_info
 If you find our work useful, please cite:
 
 ```BibTeX
+@misc{li2024giraffedesignchoicesextending,
+      title={GIRAFFE: Design Choices for Extending the Context Length of Visual Language Models}, 
+      author={Mukai Li and Lei Li and Shansan Gong and Qi Liu},
+      year={2024},
+      eprint={2412.12735},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.12735}, 
+}
 
 ```
 
